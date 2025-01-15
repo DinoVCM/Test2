@@ -6,6 +6,8 @@
 # else:
 #   print(f"{second_person} is better than {first_person}")
 
-eyes, nose, mouth = map(int, input().split())
-product = eyes * nose * mouth
-print(product)
+#eyes, nose, mouth = map(int, input().split())
+#product = eyes * nose * mouth
+#print(product)
+
+print("Does this code work???")
